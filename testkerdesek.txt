@@ -8,6 +8,8 @@ D. Csak a projektek kezdeti szakaszában való alkalmazás
 
 Válasz:
 
+B
+
 Kérdés 2:
 Melyik állítás igaz a Kanban módszertannal kapcsolatban?
 
@@ -18,13 +20,17 @@ D. A Kanban módszertan szerint minden csapatnak ugyanazokat a munkafolyamatokat
 
 Válasz:
 
+B
+
 Kérdés 3:
 Mi a "Work In Progress" (WIP) limit a Kanban módszertanban?
 
-A. A csapat által párhizamosan elvégzendő feladatok maximális száma
+A. A csapat által párhuzamosan elvégzendő feladatok maximális száma
 B. A csapat által egy időben végezhető feladatok minimális száma
 C. Az egyes munkafázisokhoz rendelt időkorlát
 D. A projektenként elkülönített erőforrások maximális száma
+
+A
 
 Válasz:
 
@@ -37,3 +43,5 @@ C. WIP limitek
 D. Ütemterv
 
 Válasz:
+
+D
